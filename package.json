@@ -1,0 +1,25 @@
+{
+  "name": "blogku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariffatur17/blogku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariffatur17/blogku/issues"
+  },
+  "homepage": "https://github.com/ariffatur17/blogku#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
